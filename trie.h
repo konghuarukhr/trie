@@ -1,3 +1,5 @@
+// By zhenglingyun (konghuarukhr@163.com), 2014-07-20. All rights reserved.
+
 #ifndef _trie_h_
 #define _trie_h_
 
